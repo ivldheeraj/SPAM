@@ -1,0 +1,4 @@
+com\sma\repository\StudentRepository.class
+com\sma\controller\StudentController.class
+com\sma\SchoolManagementAppApplication.class
+com\sma\model\Student.class
